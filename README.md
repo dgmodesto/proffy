@@ -1,3 +1,8 @@
+
+# PROJETO PROFFY
+
+<img src="/docs/proffy.png" alt="My cool logo"/>
+
 # Funcionalidades
 
 ## Conexões
